@@ -12,7 +12,7 @@ var config = {
 }
 
 const gameState = {}
-
+var platforms;
 
 
 const game = new Phaser.Game(config);
